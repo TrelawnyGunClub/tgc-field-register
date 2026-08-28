@@ -1,0 +1,14 @@
+{
+  "name": "TGC Field Register",
+  "short_name": "TGC",
+  "description": "Trelawny Gun Club — registration, draws, results and season stats",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#E7E1CA",
+  "theme_color": "#26362B",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
